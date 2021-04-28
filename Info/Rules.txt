@@ -1,0 +1,64 @@
+[b]Uno Monopoly Rules - Version 0.3.[/b]
+
+[b]Intro:[/b]
+	This started as a joke idea to some friends in February 2020, and it stayed that until early 2021 when I actually put some more thought into it around Feb-March of 2021. 
+
+[b]How to Play:[/b]
+	This game takes the basics of both and combines them. The game is basically Monopoly, but instead of rolling dice, you play Uno to determine your moves. But everything else for each game is largely the same: get 200 for passing go, buying and selling properties, cards but be same color or same number (or a wild/+4). But since the cards take the place of the dice, the "bonus" cards do something slightly different, which I'll explain below.
+
+	The bonus cards will affect both games in different ways. But the rules for each game stay the same.
+	
+	Game largely plays like monopoly, for anything not covered here, look to the official Mattel rules.
+	
+	If you get stuck in jail, you can either pay $50 or wait 3 turns. (You can't play, but you can draw cards and charge/pay rent.) 
+	
+	If you land on a utility, the rent is based on the number card you played that made you land there. In reverse, same rule to determine amount, but owner pays you. 
+	
+	Income Tax and Luxury Tax: same as player owned properties. 	 
+		Normal board movement: pay bank amount shown on board.
+		Reverse Board Movement: Bank pays you the amount on the board.
+	
+	Properties are purchasable in both normal and reverse.
+	
+	If you are moving in reverse and you land on go to jail, you can do one of 2 things.
+		1.) If someone is in jail, you may choose to free them.
+		2.) You can choose to send one person to jail.
+		
+	Community Chest / Chance directions are the reverse if players are moving in reverse. (So if a card says "Win a beauty pageant, get $10". In reverse, you would pay the bank that amount.)
+	
+[b]Starting the game:[/b]
+	Each player will start with $2,100: 3 $500's, 3 $100's, 2 $50's, 6 $20's, 5 $10's, 5 $5's, and 5 $1's. Slightly more than the original amount ($1,500)
+	
+	Each player will also start with 10 Uno cards.
+	
+	Banker will place $200 in the center of the board to act as the 'Free Parking' pot. If you land on the Free Parking space normally, you receive the pot in the middle (banker then replaces the pot). If moving reverse, if you land on Free Parking, you must pay $100 into the pot.
+	
+	One player will act as the "Banker". The bankers job is to handle all the money and properties. As well as dealing out upgrades, handling transactions, etc.
+	
+	Players will go in clockwise order, starting from player to the bankers left.
+	
+	Place a reverse card on the center of the board, face down. Flip card upright when a reverse card is played and players are to move backwards (this is an toggleable option in Tabletop Sim, which is how this game was first played.)
+
+[b]What each card does:[/b]
+	Numbers 0-9: Move that many spaces
+
+	+2 and +4: Next player has to move 2 or 4 spaces, that will skip their turn and go to the next player. That player also has to draw 2 or 4 cards (depending on what was played.) Stacking is allowed, but not required.
+
+	Wild and Wild +4: Wild acts as it does in Uno, player can choose the color they want everyone to play. Wild +4, same as above, but next player moves 4 spaces (same as the normal +4, turn is also skipped).
+
+	Skip card: Skips the next players turn
+
+	Reverse card: When card is played, all players move backwards until next card played. If you move backwards across a player owned property, owner has pays you the rent amount shown on the card. Moving backwards across GO means you pay the bank $200. Reverse cards affect player movement and player order. And because of that, reverse cards are not allowed to be stacked. Mainly because the game would come to a stall if two players keep stacking reverse cards.
+	
+[b]Endgame:[/b]
+	Each player is out when they go bankrupt. If you run out of Uno cards, you may deal yourself back in to keep playing the game. 
+	
+	Players can quit whenever they want, but all their properties/money/cards go back to the bank.
+	
+	Winner is last player left in the game.
+	
+	If you run out of cards and decide to stop playing, tally up your properties and earnings. Properties go back to the bank, where they will be available for other players to buy.
+
+
+
+

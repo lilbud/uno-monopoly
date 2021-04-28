@@ -1,0 +1,19 @@
+Table Tray Background: https://www.miltonandking.com/product/contact-grid-wallpaper/
+
+Table Tray Edge: http://wallpoper.com/wallpaper/wood-texture-285741
+
+Felt Table Texture: https://www.reddit.com/r/tabletopsimulator/comments/35qk30/i_made_a_felt_tabletop_for_your_custom_large/
+
+Uno Cards: https://www.deviantart.com/wackosamurai/art/Uno-Deck-572559133
+
+Reverse Card was taken from the above source, but edited in Photoshop.
+
+Uno Card Back: https://www.deviantart.com/wackosamurai/art/Uno-Card-Back-572166483
+
+Reverse Turn Order Script: https://steamcommunity.com/sharedfiles/filedetails/?id=2145017164
+
+All I took from the above script was the function to reverse the player order when the card was flipped face up. I didn't need any of the extra features. 
+
+Monopoly Cards, player pieces, houses/hotels, and money: https://steamcommunity.com/sharedfiles/filedetails/?id=503549425
+
+All logos property of their respective copyright holders. Used under Fair Use.
